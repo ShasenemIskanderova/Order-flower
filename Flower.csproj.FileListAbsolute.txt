@@ -1,0 +1,9 @@
+c:\users\sevara\documents\visual studio 2012\Projects\Flower\Flower\bin\Debug\Flower.exe.config
+c:\users\sevara\documents\visual studio 2012\Projects\Flower\Flower\obj\Debug\Flower.csprojResolveAssemblyReference.cache
+c:\users\sevara\documents\visual studio 2012\Projects\Flower\Flower\obj\Debug\Flower.Form1.resources
+c:\users\sevara\documents\visual studio 2012\Projects\Flower\Flower\obj\Debug\Flower.Properties.Resources.resources
+c:\users\sevara\documents\visual studio 2012\Projects\Flower\Flower\obj\Debug\Flower.csproj.GenerateResource.Cache
+c:\users\sevara\documents\visual studio 2012\Projects\Flower\Flower\bin\Debug\Flower.exe
+c:\users\sevara\documents\visual studio 2012\Projects\Flower\Flower\bin\Debug\Flower.pdb
+c:\users\sevara\documents\visual studio 2012\Projects\Flower\Flower\obj\Debug\Flower.exe
+c:\users\sevara\documents\visual studio 2012\Projects\Flower\Flower\obj\Debug\Flower.pdb
